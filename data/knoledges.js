@@ -1,0 +1,15 @@
+export const knoledges = [
+  "Payment",
+  "UI / UX",
+  "Leadership",
+  "Communication",
+  "Social Media",
+  "Time Management",
+  "Git",
+  "Figma",
+  "SEO",
+  "Flexibility",
+  "Adobe Photoshop",
+  "Web Security",
+  "Adobe Illustrator",
+];
